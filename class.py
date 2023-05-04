@@ -44,6 +44,7 @@ class Student:
     
     def show_initials(self):
         print(f"{self.first_name[0]},{self.last_name[0]}")
+        
 
 
 
